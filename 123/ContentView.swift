@@ -16,7 +16,7 @@ struct ContentView: View {
         ScrollViewReader { proxy in
             ScrollView {
                 VStack {
-                    Image(systemName: "globe")
+                    Image(systemName: "pencil")
                         .imageScale(.large)
                         .foregroundColor(.accentColor)
                     Spacer(minLength: 280)
